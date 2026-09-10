@@ -57,7 +57,7 @@
   <ItemGroup>
     <PackageReference Include="MinVer" Version="7.0.0" PrivateAssets="all" />
     <PackageReference Include="Microsoft.Sbom.Targets" Version="4.1.5" PrivateAssets="all" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="10.0.400" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="10.0.401" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
